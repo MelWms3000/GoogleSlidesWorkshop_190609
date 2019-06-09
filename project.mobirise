@@ -46,8 +46,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Google Slides Workshop",
+        "meta_descr": "Web Designs by MEL presents Google Slides Workshop",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
